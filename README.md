@@ -3,10 +3,10 @@
 I created this project to demonstrate how to clean and transform data using SQL.
 The database contains information about global layoffs, including details about companies, locations, and the number of employees laid off.
 This project showcases the following data-cleaning steps:
-Removing duplicates
-Standardizing values
-Handling NULL and blank values
-Converting date formats
+*Removing duplicates
+*Standardizing values
+*Handling NULL and blank values
+*Converting date formats
 
 
 
